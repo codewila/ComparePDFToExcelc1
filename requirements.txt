@@ -1,10 +1,7 @@
-# requirements.txt
-pandas
-PyPDF2
-openpyxl
-xlrd
-PyMuPDF
-xlsxwriter
-pdfplumber
 streamlit
+pandas
+pdfplumber
+PyPDF2
+xlsxwriter
+openpyxl
 altair
